@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1126739223,
+    "username": "sanow0909",
+    "firstname": "Sanobar",
+    "lastname": null,
+    "phoneNumber": "+998999252473",
+    "baseState": "SHOW_PRODUCT_STATE",
+    "state": "SHOW_FOOD",
+    "photoId": null,
+    "role": "ADMIN"
+  }
+]

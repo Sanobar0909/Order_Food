@@ -1,0 +1,10 @@
+[
+  {
+    "userid": 1126739223,
+    "name": "Lavash",
+    "prise": 23.0,
+    "photoId": "[PhotoSize{file_id\u003d\u0027AgACAgIAAxkBAAIFh2ZKWjTOw5dMqhuh1XUbKaUE9uboAALw2jEbqyZYStSZwuWa37kBAQADAgADcwADNQQ\u0027, file_unique_id\u003d\u0027AQAD8NoxG6smWEp4\u0027, width\u003d90, height\u003d64, file_size\u003d1474}, PhotoSize{file_id\u003d\u0027AgACAgIAAxkBAAIFh2ZKWjTOw5dMqhuh1XUbKaUE9uboAALw2jEbqyZYStSZwuWa37kBAQADAgADbQADNQQ\u0027, file_unique_id\u003d\u0027AQAD8NoxG6smWEpy\u0027, width\u003d320, height\u003d226, file_size\u003d18307}, PhotoSize{file_id\u003d\u0027AgACAgIAAxkBAAIFh2ZKWjTOw5dMqhuh1XUbKaUE9uboAALw2jEbqyZYStSZwuWa37kBAQADAgADeAADNQQ\u0027, file_unique_id\u003d\u0027AQAD8NoxG6smWEp9\u0027, width\u003d800, height\u003d564, file_size\u003d78107}, PhotoSize{file_id\u003d\u0027AgACAgIAAxkBAAIFh2ZKWjTOw5dMqhuh1XUbKaUE9uboAALw2jEbqyZYStSZwuWa37kBAQADAgADeQADNQQ\u0027, file_unique_id\u003d\u0027AQAD8NoxG6smWEp-\u0027, width\u003d1280, height\u003d902, file_size\u003d145584}]",
+    "category": "FAST_FOOD",
+    "isCompleted": true
+  }
+]
